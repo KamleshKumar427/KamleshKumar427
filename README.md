@@ -1,8 +1,5 @@
 # Kamlesh Kumar
 
-![image](https://github.com/user-attachments/assets/1fd53129-a2d1-4ed5-97c1-0d058ba9917b)
-
-
 **Full Stack Developer**
 
 [LinkedIn](https://linkedin.com/in/kamlesh-kumar-389847224) | [GitHub](https://github.com/KamleshKumar427) | [Stack Overflow](https://stackoverflow.com/users/19111495/kamlesh-kumar) | [Upwork](https://www.upwork.com/freelancers/~0158cc6fc20864b130)
