@@ -1,52 +1,32 @@
-# Kamlesh Kumar
+### Hi, I'm Kamlesh 👋
 
-**Full Stack Developer**
+Full-stack engineer focused on AI-native development. I use tools like Claude Code 
+and Cursor as real parts of the workflow, not just autocomplete.
 
-[LinkedIn](https://linkedin.com/in/kamlesh-kumar-389847224) | [GitHub](https://github.com/KamleshKumar427) | [Stack Overflow](https://stackoverflow.com/users/19111495/kamlesh-kumar) | [Upwork](https://www.upwork.com/freelancers/~0158cc6fc20864b130)
-
----
-
-## About Me
-👋 Hi, I'm Kamlesh Kumar, a passionate Full Stack Developer specializing in React and Java. Currently, I'm focused on developing a Payment Gateway solution, integrating Google Pay, Apple Pay, and Rapyd Pay. 🚀
-
-## 🛠️ Skills
-- **Languages:** Java, Spring, React.js, JavaScript, HTML/CSS, SQL
-- **Tools:** PostgreSQL, MongoDB, Git, Linux
-
-## 💼 Work Experience
-### Full Stack Engineer, Datapulse Technologies
-**Jun 2024 - Present** | Dublin, Ireland | Remote
-- Developing a Payment Gateway solution using React and Java.
-- Integrating Google Pay, Apple Pay, and Rapyd Pay.
-
-### Associate Software Engineer, Bitnine Global Inc
-**Jun 2023 - Nov 2023** | South Korea | Remote
-- Developed a SaaS platform for the AGE graph database.
-- Contributed to Apache-AGE, an open-source project.
-
-## 📜 Certifications
-- **Java Spring Framework 6 with Spring Boot 3:** Udemy, Jun 2024
-- **PostgreSQL Indexes:** Percona University Online, Jan 2023
-
-## 📂 Projects
-- **AI-based Teacher in Metaverse:** Interactive tutor using LLama-2 7B and Lang-Chain.
-- **Java Desktop Game:** GUI-based board game.
-- **Fine-tuning DistilGPT-2:** Generating creative stories from prompts.
-
-## 🏆 Achievements
-- **United Nations Millennium Fellowship:** Campus Director, 2023.
-- **Campus Ambassador @Devsinc:** NUST University, 2023-2024.
+**Currently:** MSc Computer Science @ University of Helsinki (GPA 4.9/5)
 
 ---
 
-I am always open to new challenges and opportunities. Feel free to explore my repositories and get in touch!
+**Recent work**
 
-📫 **Contact:** [kkumar.bscs20seecs@seecs.edu.pk](mailto:kkumar.bscs20seecs@seecs.edu.pk)
+At **XSTRYV**, I was the sole engineer managing and extending a live recruitment 
+platform across three panels (admin, company, talent), serving 1,600+ users and 
+250+ companies. 50+ commits in 3 months. Shipped at roughly 10x speed by working 
+with agentic AI tools throughout.
+
+At **Datapulse**, I worked on a PCI DSS Level 1 payment gateway processing hundreds 
+of millions of euros. Integrated Google Pay and Apple Pay, built JWT-secured REST 
+APIs, and cut end-to-end processing time by 11%.
+
+I also work hands-on with LLMs. Fine-tuned LLaMA-2 7B and DistilGPT-2, and built 
+LLM applications with LangChain.
 
 ---
 
-### 🌟 Highlights
-- 🌍 Global experience with remote roles.
-- 🚀 Passionate about open-source contributions.
-- 💡 Innovative problem-solver.
-- 🤝 Collaborative team player.
+🛠️ React, Next.js, TypeScript, .NET/C#, Python, Node.js, PostgreSQL, Azure, Docker  
+🤖 Claude Code, Cursor, GitHub Copilot, LangChain, PyTorch, Hugging Face
+
+---
+
+🌐 [kamleshkumar.eu](https://kamleshkumar.eu)  
+💼 [LinkedIn](https://linkedin.com/in/kamlesh-kumar-389847224)
