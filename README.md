@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="KamleshKumar427's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
+
 ### Hi, I'm Kamlesh 👋
 
 Full-stack engineer focused on AI-native development. I use tools like Claude Code 
